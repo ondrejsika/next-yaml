@@ -1,0 +1,10 @@
+{
+  "name": "next-yaml",
+  "version": "1.0.0",
+  "description": "Import YAML in Next.js",
+  "main": "index.js",
+  "repository": "https://github.com/ondrejsika/next-yaml",
+  "author": "Ondrej Sika <ondrej@ondrejsika.com>",
+  "license": "MIT",
+  "private": false
+}
