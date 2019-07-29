@@ -6,5 +6,8 @@
   "repository": "https://github.com/ondrejsika/next-yaml",
   "author": "Ondrej Sika <ondrej@ondrejsika.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "js-yaml-loader": "^1.2.2"
+  }
 }
