@@ -64,3 +64,8 @@ export default () => <p>
   <br />{yaml.location.city}, {yaml.location.country}
 </p>
 ```
+
+## Example Project
+
+Example usage in Next.js project is [ondrejsika/next-yaml--example](https://github.com/ondrejsika/next-yaml--example).
+
