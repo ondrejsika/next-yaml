@@ -1,6 +1,6 @@
 {
   "name": "next-yaml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Import YAML in Next.js",
   "main": "index.js",
   "repository": "https://github.com/ondrejsika/next-yaml",
